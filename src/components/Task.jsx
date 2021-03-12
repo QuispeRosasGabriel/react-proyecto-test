@@ -4,6 +4,7 @@ const Task = ({task}) => {
     const handleDeleteTask = () => {
         console.log(task);
     }
+    
     return (
         <div style="display:flex;">
             <span>
